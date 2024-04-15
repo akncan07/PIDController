@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIDController2", "..\PIDController2\PIDController2.csproj", "{4A81B27E-CC1C-45C2-A4BE-6B5FC8AF2FD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A81B27E-CC1C-45C2-A4BE-6B5FC8AF2FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A81B27E-CC1C-45C2-A4BE-6B5FC8AF2FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A81B27E-CC1C-45C2-A4BE-6B5FC8AF2FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A81B27E-CC1C-45C2-A4BE-6B5FC8AF2FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB2A9044-4BDE-4A28-B462-BCEF9D866627}
+	EndGlobalSection
+EndGlobal
